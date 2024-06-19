@@ -1,4 +1,4 @@
 Example .env file :
-``bash
+```bash
 MONGO_URI = mongodb url
 PORT = 5000
